@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'Xin chào b Uyênnnnn!',
-    introDesc: `Sao hôm nay lại cứ ngẩn ngơ thế này
-    Sao mà bây giờ đây vũ trụ em chỉ thấy anh thôi đấy
-    Bắt đền đi trả lại tâm trí đây
-    Meo meo meo meo trả lại tâm trí tôi đây`,
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim anh lẻ loi
+    Đằng sau chữ yêu đây là thương`,
     btnIntro: 'Đừng bấm vào đâyyy',
     title: 'Lỡ bấm rồi là phải làm bạn gái mình thôi hầyyyy?',
     desc: ' Làm người iuuuu tớ nhéee =))))',
